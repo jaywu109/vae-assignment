@@ -1,0 +1,13 @@
+[shard 1 1/13] CVAE_mlp_z2_h512_d2_lr0.001_bs128_s1  test -ELBO 128.92  IWAE 125.95  KL 5.12  AU 2  ep 48  1.4 min
+[shard 1 2/13] CVAE_mlp_z4_h512_d2_lr0.001_bs128_s0  test -ELBO 113.27  IWAE 109.92  KL 9.00  AU 4  ep 46  1.7 min
+[shard 1 3/13] VAE_mlp_z4_h512_d2_lr0.001_bs128_s0  test -ELBO 121.62  IWAE 116.89  KL 11.10  AU 4  ep 56  1.5 min
+[shard 1 4/13] CVAE_mlp_z8_h512_d2_lr0.001_bs128_s2  test -ELBO 97.50  IWAE 93.43  KL 14.88  AU 8  ep 46  1.3 min
+[shard 1 5/13] CVAE_mlp_z16_h512_d2_lr0.001_bs128_s1  test -ELBO 93.89  IWAE 88.66  KL 18.82  AU 12  ep 68  1.7 min
+[shard 1 6/13] CVAE_mlp_z32_h512_d2_lr0.001_bs128_s0  test -ELBO 93.50  IWAE 88.31  KL 19.46  AU 13  ep 52  1.3 min
+[shard 1 7/13] VAE_mlp_z32_h512_d2_lr0.001_bs128_s0  test -ELBO 97.87  IWAE 92.32  KL 22.06  AU 13  ep 55  1.3 min
+[shard 1 8/13] CVAE_mlp_z64_h512_d2_lr0.001_bs128_s2  test -ELBO 93.85  IWAE 88.28  KL 18.57  AU 13  ep 53  1.2 min
+[shard 1 9/13] CVAE_mlp_z16_h256_d1_lr0.001_bs128_s1  test -ELBO 96.10  IWAE 91.31  KL 21.53  AU 16  ep 100  1.2 min
+[shard 1 10/13] CVAE_mlp_z16_h256_d3_lr0.001_bs128_s0  test -ELBO 107.28  IWAE 103.32  KL 10.35  AU 5  ep 68  1.2 min
+[shard 1 11/13] CVAE_mlp_z16_h512_d1_lr0.001_bs128_s1  test -ELBO 95.28  IWAE 90.44  KL 21.67  AU 16  ep 75  1.4 min
+[shard 1 12/13] CVAE_conv_z16_h512_d2_lr0.001_bs128_s0  test -ELBO 89.73  IWAE 85.01  KL 19.74  AU 13  ep 59  5.9 min
+[shard 1 13/13] CVAE_mlp_z16_h512_d2_lr0.003_bs128_s0  test -ELBO 101.20  IWAE 94.80  KL 15.21  AU 9  ep 51  1.2 min
